@@ -1,7 +1,7 @@
 # 🛠️ Logistics Price Prediction Dashboard (Sample)
 
 🎉 Welcome to the **Logistics Price Prediction Dashboard** repository! This project is a sample version of a predictive analytics dashboard tailored to estimate logistics costs efficiently. Sensitive and proprietary information has been excluded or redacted for confidentiality.
-![visualization]
+![Visualization](https://github.com/KeshavaYada/Logistics-Price-Prediction-Dashboard/blob/main/Screenshot%20Visualization.png)
 ---
 
 ## 📋 Project Overview
